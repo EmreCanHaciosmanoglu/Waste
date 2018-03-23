@@ -52,7 +52,6 @@
     <Compile Include="Buffs.cs" />
     <Compile Include="Character.cs" />
     <Compile Include="Characters.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Command.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
