@@ -1,0 +1,12 @@
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\obj\Debug\Deneme.csprojResolveAssemblyReference.cache
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\obj\Debug\Deneme.csproj.GenerateResource.Cache
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\bin\Debug\Deneme.exe
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\bin\Debug\Deneme.pdb
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\obj\Debug\Deneme.exe
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\Deneme\obj\Debug\Deneme.pdb

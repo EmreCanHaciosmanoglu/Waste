@@ -1,0 +1,8 @@
+TOP
+1068;860  First     Tower
+1068;915  Second    Tower
+1068;950  Inhibitor Tower
+MIDDLE
+1040;920  First     Tower
+1125;945  Second    Tower
+1105;960  Inhibitor Tower

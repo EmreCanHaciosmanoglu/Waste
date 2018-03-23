@@ -1,0 +1,50 @@
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Interface.resources
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\a\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Interface.resources
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ECHOO GameDesigner\Desktop\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Interface.resources
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\ECHOO GameDesigner\Desktop\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Interface.resources
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\darko\OneDrive\Masaüstü\AI\Lol_Bot\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
